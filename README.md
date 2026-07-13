@@ -146,4 +146,4 @@ This project is released under the MIT License.
 
 ## 👤 Author
 
-**Aditya Maurya**
+**Aditya Maurya** and **Mayank Kumar**
